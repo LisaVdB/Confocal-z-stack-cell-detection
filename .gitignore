@@ -1,3 +1,8 @@
+# Desktop.ini files
+*.ini
+*/Desktop.ini
+*/desktop.ini
+
 # History files
 .Rhistory
 .Rapp.history
