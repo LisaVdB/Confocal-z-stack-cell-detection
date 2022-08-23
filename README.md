@@ -11,7 +11,7 @@ Content:
 - [Potential errors](#Potential-errors)
 
 # Publication
-Lisa Van den Broeck, Michael F Schwartz, Srikumar Krishnamoorthy, Ryan Spurney, Maimouna Abderamane Tahir, Charles Melvin, Mariah Gobble, Rachel Peters, Atiyya Muhammad, Baochun Li, Timothy Horn, Rosangela Sozzani (2022). Establishing a reproducible approach for the controllable deposition and maintenance of plants cells with 3D bioprinting. _Science Advances_
+Lisa Van den Broeck, Michael F Schwartz, Srikumar Krishnamoorthy, Maimouna Abderamane Tahir, Ryan Spurney, Imani Madison, Charles Melvin, Mariah Gobble, Thomas Nguyen, Rachel Peters, Aitch Hunt, Atiyya Muhammad, Baochun Li, Maarten Stuiver, Timothy Horn, Rosangela Sozzani (2022). Establishing a reproducible approach to study cellular functions of plants cells with 3D bioprinting. _Science Advances_
 
 # Requirements
 - Python 3.8.12
