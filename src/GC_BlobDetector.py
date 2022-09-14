@@ -24,8 +24,6 @@ def gc_blob_detector(lsm_input, gc_output, ch1i, ch1l, area = 12, th = 8):
       run("Split Channels");
       selectWindow("C2-"+filename);
       close();
-      selectWindow("C3-"+filename);
-      close();
       selectWindow("C1-"+filename);
       run("Z Project...", "projection=[Max Intensity]");
       selectWindow("MAX_C1-"+filename);
