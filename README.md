@@ -52,7 +52,7 @@ conda create -n r-reticulate python==3.8.12
 conda activate r-reticulate
 conda install opencv==4.5.4
 conda install -c conda-forge pyimagej==1.0.2
-conda install openjdk==11.0.9.1
+conda install -c conda-forge openjdk==11.0.9.1
 ```
 
 Install R (versio 4.1.2) and RStudio. Open the .Rprofile in RStudio and change the python path to your system. For example: 
