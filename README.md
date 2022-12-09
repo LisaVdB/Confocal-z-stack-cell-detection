@@ -81,7 +81,7 @@ To analyze the fluorescent channel of the confocal images, the area and threshol
 ## JVM not found
 Info about this error can be found at https://github.com/imagej/pyimagej/issues/176
 
-To resolve the error, add JAVA_HOME to ImageJ.py file in the src folder by adding the following line of code:
+To resolve the error, add JAVA_HOME to ImageJ.py file in the src folder by adding the following line of code prior to setting the ij variable:
 
 ```os.environ['JAVA_HOME'] = 'C:\\Users\\name\\AppData\\Local\\r-miniconda\\envs\\r-reticulate'```
 
