@@ -22,6 +22,7 @@ Lisa Van den Broeck, Michael F Schwartz, Srikumar Krishnamoorthy, Maimouna Abder
 - R 4.1.2
 - Shiny 1.6.0
 - shinyWidgets 0.6.0
+- Windows system
 
 # Requirements images
 The confocal images need to be z-stack images with the following channels:
